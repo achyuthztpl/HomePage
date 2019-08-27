@@ -1,9 +1,14 @@
+body {
+    background: #f8f9fa;
+}
+
 .absolute {
     position: absolute;
-    top:0;
-    left:0;
-    right:0; 
+    top: 0;
+    left: 0;
+    right: 0;
 }
+
 .nav {
     margin: 1em 0;
     justify-content: space-evenly;
@@ -14,7 +19,6 @@
     flex-flow: column;
     justify-content: center;
     align-items: center;
-    top: 0;
     height: 100vh;
 }
 
@@ -23,7 +27,15 @@
     margin-top: 5em;
 }
 
+.form {
+    margin: 0 1em;
+    margin-top: 8em;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+}
+
 .card {
     margin-bottom: 1em;
 }
-
