@@ -1,0 +1,29 @@
+.absolute {
+    position: absolute;
+    top:0;
+    left:0;
+    right:0; 
+}
+.nav {
+    margin: 1em 0;
+    justify-content: space-evenly;
+}
+
+.welcome-home {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    top: 0;
+    height: 100vh;
+}
+
+.about {
+    margin: 0 1em;
+    margin-top: 5em;
+}
+
+.card {
+    margin-bottom: 1em;
+}
+
