@@ -39,3 +39,16 @@ body {
 .card {
     margin-bottom: 1em;
 }
+
+.media div h5 {
+    font-weight: bold;
+}
+
+.media div p {
+    font-family: Times New Roman, Georgia, serif;
+}
+
+.about h2 {
+    font-weight: bold;
+    font-family: Times New Roman, Georgia, serif;
+}
